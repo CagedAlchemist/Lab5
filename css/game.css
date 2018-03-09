@@ -1,0 +1,16 @@
+.background {
+    background-image: url(https://opengameart.org/sites/default/files/lava_ground_cracked_tileset_2.png);
+    table-layout: fixed;
+    background-color: black;
+    border-spacing: 0;
+}
+.background td { padding: 0;          }
+.lava {
+    background: rgb(152, 244, 66);
+}
+.wall {
+    background: rgb(135, 91, 62);
+}
+.floater {background: blue;}
+.game {position: relative;
+}
